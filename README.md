@@ -1,4 +1,4 @@
-# anagramma-game
+# anagram
 
 > A Vue.js project
 
